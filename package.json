@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "node": "^17.7.1",
+    "split": "^1.0.1",
+    "stream-json": "^1.7.4"
+  }
+}
